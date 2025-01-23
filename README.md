@@ -8,6 +8,8 @@
 
 **Graphs4CFD** is a library built upon [PyTorch](https://pytorch.org/) and [Pytorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/) (PyG) to code and train Graph Neural Networks (GNNs) based solvers for Computational Fluid Dynamics (CFD) applications.
 
+The new update for this version will be applying transfer learning on the existing model, to test model's performance on unseen 2D airfoil data.
+
 ## Contents
 <!-- Table of contents -->
 - [Implemented GNN models](#implemented-gnn-models)
